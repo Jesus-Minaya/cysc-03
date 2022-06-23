@@ -1,6 +1,6 @@
 # cysc-03
 
-Nombre y Apellido del alumno: Minaya Jesus y Retamar Faustina
+Nombre y Apellido del alumno: Minaya Jesus, Retamar Faustina y Heis Demian
 
 Curso: 6º2º Avionica
 
